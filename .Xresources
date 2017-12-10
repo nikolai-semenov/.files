@@ -1,6 +1,6 @@
 
 !!! URxvt !!!
-!TODO: Setup bright colors for diminished brightness
+!TODO: Brighten the colors 
 
 !URxvt.depth: bitdepth
 
@@ -79,7 +79,7 @@ URxvt.utmpInhibit: False
 
 URxvt.print-pipe: cat > $(TMPDIR=$HOME mktemp urxvt.XXXXXX)
 
-URxvt.scrolltype: plain
+URxvt.scrollstyle: plain
 URxvt.thickness: 10
 URxvt.scrollBar: True
 URxvt.scrollBar_right: True
@@ -142,8 +142,8 @@ URxvt.hold: True
 
 !URxvt.chdir: 
 
-URxvt.perl-ext-common: ""
-URxvt.perl-ext: "" !"default"
+URxvt.perl-ext-common:
+URxvt.perl-ext: !"default"
 !URxvt.perl-eval:
 !URxvt.perl-lib:
 
