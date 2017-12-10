@@ -1,0 +1,4 @@
+URxvt.background: #000000
+URxvt.foreground: #aaaaaa
+
+URxvt.font: xft: Dejavu Sans Mono:pixelsize=12
