@@ -79,7 +79,7 @@ URxvt.utmpInhibit: False
 
 URxvt.print-pipe: cat > $(TMPDIR=$HOME mktemp urxvt.XXXXXX)
 
-URxvt.scrollstype: plain
+URxvt.scrolltype: plain
 URxvt.thickness: 10
 URxvt.scrollBar: True
 URxvt.scrollBar_right: True
