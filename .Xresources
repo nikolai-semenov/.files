@@ -1,4 +1,165 @@
+
+!!! URxvt !!!
+!TODO: Setup bright colors for diminished brightness
+
+!URxvt.depth: bitdepth
+
+URxvt.buffered: True
+
+!URxvt.geometry: geom (default 80x24)
+
 URxvt.background: #000000
 URxvt.foreground: #aaaaaa
 
+!URxvt.color0:
+!URxvt.color1:
+!URxvt.color2:
+!URxvt.color3:
+!URxvt.color4:
+!URxvt.color5:
+!URxvt.color6:
+!URxvt.color7:
+
+!URxvt.color8:
+!URxvt.color9:
+!URxvt.color10:
+!URxvt.color11:
+!URxvt.color12:
+!URxvt.color13:
+!URxvt.color14:
+!URxvt.color15:
+
+!URxvt.colorBD:
+!URxvt.colorIT:
+!URxvt.colorUL:
+
+!URxvt.underlineColor
+
+!URxvt.highlightColor:
+!URxvt.highlightTextColor:
+
+!URxvt.cursorColor:
+!URxvt.cursorColor2:
+
+URxvt.reverseVideo: False
+
+URxvt.jumpScroll: False
+URxvt.skipScroll: True
+
+!URxvt.fading:
+!URxvt.fadeColor:
+
+!URxvt.iconFile:
+
+!URxvt.scrollColor:
+!URxvt.troughColor:
+!URxvt.borderColor:
+
 URxvt.font: xft: Dejavu Sans Mono:pixelsize=12
+!URxvt.boldFont:
+!URxvt.italicFont:
+!URxvt.boldItalicFont:
+
+!URxvt.intensityStyles:
+
+!URxvt.title:
+
+!URxvt.iconName:
+
+!URxvt.mapAlert:
+
+URxvt.urgentOnBell: False
+URxvt.visualBell: False
+
+URxvt.loginShell: False
+
+URxvt.multiClickTime: 500
+
+URxvt.utmpInhibit: False
+
+URxvt.print-pipe: cat > $(TMPDIR=$HOME mktemp urxvt.XXXXXX)
+
+URxvt.scrollstype: plain
+URxvt.thickness: 10
+URxvt.scrollBar: True
+URxvt.scrollBar_right: True
+URxvt.scrollBar_floating: False
+URxvt.scrollBar_aligh: centre
+URxvt.scrollTtyOutput: True
+URxvt.scrollTtyKeypress: True
+!URxvt.scrollWithBuffer:
+
+URxvt.saveLines: 1000
+
+!URxvt.internalBorder:
+!URxvt.externalBorder:
+URxvt.borderLess: False
+
+!URxvt.skipBuiltinGlyphs:
+
+!URxvt.termName:
+
+URxvt.lineSpace: 0
+
+URxvt.meta8: False
+
+URxvt.mouseWheelScrollPage: False
+
+!URxvt.pastableTabs:
+
+URxvt.cursorBlink: True
+URxvt.cursorUnderline: True
+
+URxvt.pointerBlank: True
+URxvt.pointerBlankDelay: 2
+!URxvt.pointerColor:
+!URxvt.pointerColor2:
+!URxvt.pointerShape:
+
+!URxvt.backspacekey:
+!URxvt.deletekey:
+
+!URxvt.cutchars:
+
+!URxvt.preeditType:
+
+!URxvt.inputMethod:
+!URxvt.imLocale:
+!URxvt.imFont:
+
+URxvt.tripleclickwords: False
+
+URxvt.insecure: False
+
+!URxvt.modifier:
+
+!URxvt.answerbackString:
+
+URxvt.secondaryScreen: True
+URxvt.secondaryScroll: True
+
+URxvt.hold: True
+
+!URxvt.chdir: 
+
+URxvt.perl-ext-common: ""
+URxvt.perl-ext: "" !"default"
+!URxvt.perl-eval:
+!URxvt.perl-lib:
+
+URxvt.url-launcher: sensible-browser
+
+!URxvt.transient-for:
+
+!URxvt.override-redirect:
+
+URxvt.iso14755: True
+URxvt.iso14755_52: True
+
+!URxvt.backgroundPixmap:
+
+URxvt.transparent: False
+!URxvt.tintColor: #000000
+!URxvt.shading: 100
+
+!URxvt.blurRadius: 0x0
