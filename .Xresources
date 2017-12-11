@@ -1,15 +1,15 @@
 
 !!! URxvt !!!
-!TODO: Brighten the colors 
+!TODO: Complete setup the colors 
 
 !URxvt.depth: bitdepth
 
 URxvt.buffered: True
 
-!URxvt.geometry: geom (default 80x24)
+URxvt.geometry: 80x24
 
 URxvt.background: #000000
-URxvt.foreground: #aaaaaa
+URxvt.foreground: #ffffff
 
 !URxvt.color0:
 !URxvt.color1:
